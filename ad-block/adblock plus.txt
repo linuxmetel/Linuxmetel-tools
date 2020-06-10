@@ -1,0 +1,3 @@
+||*.gsspat.jp^
+||*.gssprt.jp^
+||*.gsspcln.jp^
