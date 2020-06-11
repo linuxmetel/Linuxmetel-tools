@@ -10,3 +10,4 @@
 ||*.gsspcln.jp^
 ||*.widgets.investing.com^
 ||*.tcs-asp.net^
+||*.a8.net^
