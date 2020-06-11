@@ -8,3 +8,5 @@
 ||*.gsspat.jp^
 ||*.gssprt.jp^
 ||*.gsspcln.jp^
+||*.widgets.investing.com^
+||*.tcs-asp.net^
