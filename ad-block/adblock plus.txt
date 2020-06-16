@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Linuxmetel-adblock
-! Homepage: http://linuxmetel.wordpress.com/
+! Homepage: https://linuxmetel.wordpress.com/2020/06/11/adblock%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf%e3%83%bc/
 !
 ! 最終更新 2020/06/11 08:22
 !
