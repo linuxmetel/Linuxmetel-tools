@@ -12,3 +12,4 @@
 ||*.tcs-asp.net^
 ||*.a8.net^
 ||*.popads.net^
+||*.blockadblock.com^
