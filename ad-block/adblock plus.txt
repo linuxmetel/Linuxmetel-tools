@@ -13,6 +13,7 @@
 ||*.a8.net^
 ||*.popads.net^
 ||*.blockadblock.com^
+!広告ブロッカー検出!
 m.kuku.lu#@#.textad
 m.kuku.lu#@#.text_ads
 m.kuku.lu#@#.text_ad
