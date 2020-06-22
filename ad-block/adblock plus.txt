@@ -13,3 +13,14 @@
 ||*.a8.net^
 ||*.popads.net^
 ||*.blockadblock.com^
+m.kuku.lu#@#.textad
+m.kuku.lu#@#.text_ads
+m.kuku.lu#@#.text_ad
+m.kuku.lu#@#.textAd
+m.kuku.lu#@#.text-ads
+m.kuku.lu#@#.text-ad-links
+m.kuku.lu#@#.text-ad
+m.kuku.lu#@#.pub_728x90
+m.kuku.lu#@#.pub_300x250m
+m.kuku.lu#@#.pub_300x250
+m.kuku.lu#@#.TextAd
