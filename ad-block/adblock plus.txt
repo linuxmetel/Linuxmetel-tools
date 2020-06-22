@@ -2,7 +2,7 @@
 ! Title: Linuxmetel-adblock
 ! Homepage: https://linuxmetel.wordpress.com/2020/06/11/adblock%e3%83%95%e3%82%a3%e3%83%ab%e3%82%bf%e3%83%bc/
 !
-! 最終更新 2020/06/16 11:54
+! 最終更新 2020/06/22 15:14
 !
 !広告!
 ||*.gsspat.jp^
